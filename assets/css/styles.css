@@ -1,2 +1,24 @@
+body {
+  background-image: linear-gradient(to bottom, #f5f7fa, #b8c6db);
+  background-attachment: fixed;
+  margin: 10%;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: #2f4353;
+}
 
-/* css */
+div {
+  width: 60%;
+  border: 15px solid #d7e1ec;
+  padding: 50px;
+  margin: auto;
+  line-height: 150%;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  border-radius: 8px;
+ text-align:center;
+}
